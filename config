@@ -1,0 +1,1899 @@
+{
+life: {
+temai_url: "http://life.19lou.com/wap/index.html"
+},
+novel_tag_list: [
+{
+tagname: "都市"
+},
+{
+tagname: "重生"
+},
+{
+tagname: "穿越"
+},
+{
+tagname: "总裁"
+},
+{
+tagname: "宠文"
+},
+{
+tagname: "完结"
+},
+{
+tagname: "玄幻"
+},
+{
+tagname: "武侠"
+},
+{
+tagname: "宫斗"
+},
+{
+tagname: "宅斗"
+},
+{
+tagname: "种田"
+},
+{
+tagname: "军旅"
+},
+{
+tagname: "女配"
+},
+{
+tagname: "女强"
+},
+{
+tagname: "庶女"
+},
+{
+tagname: "婚后"
+},
+{
+tagname: "甜宠"
+},
+{
+tagname: "腹黑"
+}
+],
+novel_category_tag: [
+[
+"挑情节",
+"现言",
+"甜宠",
+"欢喜冤家",
+"古言",
+"种田",
+"架空",
+"总裁",
+"娱乐圈",
+"女配",
+"重生",
+"民国文",
+"空间"
+],
+[
+"选风格",
+"甜文",
+"虐文",
+"苦情",
+"治愈",
+"温馨",
+"穿越",
+"纯爱",
+"暖文"
+],
+[
+"看状态",
+"完结",
+"连载"
+]
+],
+rec_novel: [
+{
+cover: "http://att2.citysbs.com/hangzhou/2014/11/02/12/middle_390x520-123056_v2_13171414902656921_2e7c2991ecb757aa216fd4c93fbb3401.jpg",
+subject: "《剑齿虎不能微笑》",
+cityname: "hangzhou",
+fid: "69",
+tid: "12431414902007242",
+author: "Mr_四银 ",
+last_updated_at: "2015-01-01 09:17:01",
+author_id: "38272508"
+},
+{
+cover: "http://att2.citysbs.com/hangzhou/2014/12/23/14/middle_240x320-144254_v2_18681419316974955_0d99d035b07065db73273de1dad06ad1.jpg",
+subject: "《毒医家小娘子》",
+cityname: "hangzhou",
+fid: "69",
+tid: "32371400073669208",
+author: "湘竹_MM ",
+last_updated_at: "2015-01-28 07:28:01",
+author_id: "39030527"
+},
+{
+cover: "http://att2.citysbs.com/hangzhou/2014/10/09/16/middle_240x320-163639_12711412843799772_565f9329e0e8dbea1fd380c324c799bc.jpg",
+subject: "《软肋》",
+cityname: "hangzhou",
+fid: "69",
+tid: "8111399825086136",
+author: "himigu",
+last_updated_at: "2015-05-01 09:41:01",
+author_id: "27431685"
+},
+{
+cover: "http://att2.citysbs.com/hangzhou/2015/01/21/15/middle_240x320-153257_v2_20941421825577489_5b8f61c5f70d0559a39e70fd1c39e830.jpg",
+subject: "《血族皇妃》",
+cityname: "hangzhou",
+fid: "69",
+tid: "12441414902288681",
+author: "坐等升仙 ",
+last_updated_at: "2015-01-27 21:51:01",
+author_id: "36336715"
+},
+{
+cover: "http://att2.citysbs.com/hangzhou/2014/07/14/17/middle_240x320-171105_11191405329065472_0c87422f141b8dda048cd3127ad32f46.jpg",
+subject: "《天生影后》",
+cityname: "hangzhou",
+fid: "69",
+tid: "9021404901658170",
+author: "宝蓝生香 ",
+last_updated_at: "2015-01-28 09:45:01",
+author_id: "13542284"
+}
+],
+novel_forum: [
+{
+fid: "26",
+cityName: "hangzhou"
+},
+{
+fid: "464628",
+cityName: "hangzhou"
+},
+{
+fid: "464703",
+cityName: "hangzhou"
+},
+{
+fid: "464884",
+cityName: "hangzhou"
+},
+{
+fid: "69",
+cityName: "hangzhou"
+},
+{
+fid: "61",
+cityName: "shh"
+},
+{
+fid: "310",
+cityName: "chongqing"
+}
+],
+novel_adv: [
+{
+image_url: "http://att2.citysbs.com/hangzhou/2015/04/03/10/610x140-104846_v2_11921428029326707_0f42122f822fbf29f7acee1481173ce0.jpg",
+tid: "10371418804878715",
+fid: "464884",
+cname: "hangzhou"
+}
+],
+active_bid: [
+{
+cityname: "hangzhou",
+bid: "49721401419798595",
+bids: "49721401419798595,48821401420312763"
+},
+{
+cityname: "jiaxing",
+bid: "48801401419912517"
+},
+{
+cityname: "jinhua",
+bid: "16351401419861877"
+},
+{
+cityname: "fz",
+bid: "48791401419743824"
+},
+{
+cityname: "xiaoshan",
+bid: "16361401419944292"
+},
+{
+cityname: "linan",
+bid: "48811401420037595"
+},
+{
+cityname: "taizhou",
+bid: "36391401419855243"
+},
+{
+cityname: "quzhou",
+bid: "49731401420011200"
+},
+{
+cityname: "shaoxing",
+bid: "49771401420583219"
+},
+{
+cityname: "ningbo",
+bid: "36421401421276957"
+},
+{
+cityname: "wenzhou",
+bid: "49721401419798595"
+},
+{
+cityname: "zhoushan",
+bid: "49721401419798595"
+},
+{
+cityname: "jiande",
+bid: "48821401420312763"
+},
+{
+cityname: "chunan",
+bid: "49721401419798595"
+},
+{
+cityname: "tonglu",
+bid: "49721401419798595"
+},
+{
+cityname: "yiwu",
+bid: "49721401419798595"
+},
+{
+cityname: "huzhou",
+bid: "48911401430300440"
+},
+{
+cityname: "chongqing",
+bid: "49991401429077942"
+},
+{
+cityname: "ssh",
+bid: "49721401419798595"
+},
+{
+cityname: "cc",
+bid: "49721401419798595"
+},
+{
+cityname: "zz",
+bid: "49721401419798595"
+},
+{
+cityname: "wuhan",
+bid: "49721401419798595"
+},
+{
+cityname: "suzhou",
+bid: "49721401419798595"
+},
+{
+cityname: "qz",
+bid: "48901401430141142"
+},
+{
+cityname: "shanghai",
+bid: "49721401419798595"
+},
+{
+cityname: "lishui",
+bid: "49721401419798595"
+},
+{
+cityname: "xiaoshan",
+bid: "49721401419798595"
+},
+{
+cityname: "yuhang",
+bid: "49721401419798595"
+},
+{
+cityname: "linan",
+bid: "49721401419798595"
+},
+{
+cityname: "fuyang",
+bid: "49721401419798595"
+},
+{
+cityname: "tonglu",
+bid: "49721401419798595"
+},
+{
+cityname: "jiande",
+bid: "49721401419798595"
+},
+{
+cityname: "chunan",
+bid: "49721401419798595"
+}
+],
+update_version: [
+{
+update_msg: "1、发帖领金币，礼品在路上 2、革命性的删帖功能来袭 3、赶走了一批bug ",
+version: "7.0.6",
+show_update: "1",
+update_url: "http://att2.citysbs.com/hangzhou/soft/19louV5.6.0.20150902.apk"
+}
+],
+ios_update_version: [
+{
+update_msg: "1、发帖领金币，礼品在路上 2、革命性的删帖功能来袭 3、支持3D Touch，签到发帖快捷操作 4、赶走了一批bug",
+version: "7.0.6",
+show_update: "1",
+update_url: "https://itunes.apple.com/cn/app/19lou-tong-cheng-xiao-xi-bao/id523404308?mt=8"
+}
+],
+site_list: [
+{
+site_id: "8",
+short_name: "cc",
+full_name: "cc",
+display_name: "长春",
+domain: "cc.19lou.com",
+status: "0",
+forum_name: "随手发",
+fid: "464867",
+forum_cityname: "hangzhou"
+},
+{
+site_id: "82",
+short_name: "chongqing",
+full_name: "chongqing",
+display_name: "重庆",
+domain: "go.cqmmgo.com",
+status: "0",
+forum_name: "随手发",
+fid: "464867",
+forum_cityname: "hangzhou"
+},
+{
+site_id: "62",
+short_name: "chunan",
+full_name: "chunan",
+display_name: "淳安",
+domain: "chunan.19lou.com",
+status: "0",
+forum_name: "随手发",
+fid: "464867",
+forum_cityname: "hangzhou"
+},
+{
+site_id: "81",
+short_name: "fz",
+full_name: "fz",
+display_name: "福州",
+domain: "www.ihome99.com",
+status: "0",
+forum_name: "随手发",
+fid: "464867",
+forum_cityname: "hangzhou"
+},
+{
+site_id: "63",
+short_name: "fuyang",
+full_name: "fuyang",
+display_name: "富阳",
+domain: "fuyang.19lou.com",
+status: "0",
+forum_name: "随手发",
+fid: "464867",
+forum_cityname: "hangzhou"
+},
+{
+site_id: "1",
+short_name: "hangzhou",
+full_name: "hangzhou",
+display_name: "杭州",
+domain: "www.19lou.com",
+status: "0",
+forum_name: "随手发",
+fid: "464867",
+forum_cityname: "hangzhou"
+},
+{
+site_id: "64",
+short_name: "huzhou",
+full_name: "huzhou",
+display_name: "湖州",
+domain: "huzhou.19lou.com",
+status: "0",
+forum_name: "随手发",
+fid: "464867",
+forum_cityname: "hangzhou"
+},
+{
+site_id: "58",
+short_name: "jiaxing",
+full_name: "jiaxing",
+display_name: "嘉兴",
+domain: "jiaxing.19lou.com",
+status: "0",
+forum_name: "随手发",
+fid: "464867",
+forum_cityname: "hangzhou"
+},
+{
+site_id: "61",
+short_name: "jinhua",
+full_name: "jinhua",
+display_name: "金华",
+domain: "jinhua.19lou.com",
+status: "0",
+forum_name: "随手发",
+fid: "464867",
+forum_cityname: "hangzhou"
+},
+{
+site_id: "65",
+short_name: "jiande",
+full_name: "jiande",
+display_name: "建德",
+domain: "jiande.19lou.com",
+status: "0",
+forum_name: "随手发",
+fid: "464867",
+forum_cityname: "hangzhou"
+},
+{
+site_id: "72",
+short_name: "lishui",
+full_name: "lishui",
+display_name: "丽水",
+domain: "lishui.19lou.com",
+status: "0",
+forum_name: "随手发",
+fid: "464867",
+forum_cityname: "hangzhou"
+},
+{
+site_id: "74",
+short_name: "linan",
+full_name: "linan",
+display_name: "临安",
+domain: "linan.19lou.com",
+status: "0",
+forum_name: "随手发",
+fid: "464867",
+forum_cityname: "hangzhou"
+},
+{
+site_id: "59",
+short_name: "ningbo",
+full_name: "ningbo",
+display_name: "宁波",
+domain: "ningbo.19lou.com",
+status: "0",
+forum_name: "随手发",
+fid: "464867",
+forum_cityname: "hangzhou"
+},
+{
+site_id: "71",
+short_name: "quzhou",
+full_name: "quzhou",
+display_name: "衢州",
+domain: "quzhou.19lou.com",
+status: "0",
+forum_name: "随手发",
+fid: "464867",
+forum_cityname: "hangzhou"
+},
+{
+site_id: "57",
+short_name: "qz",
+full_name: "qz",
+display_name: "泉州",
+domain: "www.0595bbs.cn",
+status: "0",
+forum_name: "随手发",
+fid: "464867",
+forum_cityname: "hangzhou"
+},
+{
+site_id: "66",
+short_name: "shaoxing",
+full_name: "shaoxing",
+display_name: "绍兴",
+domain: "shaoxing.19lou.com",
+status: "0",
+forum_name: "随手发",
+fid: "464867",
+forum_cityname: "hangzhou"
+},
+{
+site_id: "56",
+short_name: "shh",
+full_name: "shanghai",
+display_name: "上海",
+domain: "www.shanghaining.com",
+status: "0",
+forum_name: "随手发",
+fid: "464867",
+forum_cityname: "hangzhou"
+},
+{
+site_id: "75",
+short_name: "suzhou",
+full_name: "suzhou",
+display_name: "苏州",
+domain: "suzhou.19lou.com",
+status: "0",
+forum_name: "随手发",
+fid: "464867",
+forum_cityname: "hangzhou"
+},
+{
+site_id: "37",
+short_name: "taizhou",
+full_name: "tz",
+display_name: "台州",
+domain: "taizhou.19lou.com",
+status: "0",
+forum_name: "随手发",
+fid: "464867",
+forum_cityname: "hangzhou"
+},
+{
+site_id: "67",
+short_name: "tonglu",
+full_name: "tonglu",
+display_name: "桐庐",
+domain: "tonglu.19lou.com",
+status: "0",
+forum_name: "随手发",
+fid: "464867",
+forum_cityname: "hangzhou"
+},
+{
+site_id: "68",
+short_name: "wenzhou",
+full_name: "wenzhou",
+display_name: "温州",
+domain: "wenzhou.19lou.com",
+status: "0",
+forum_name: "随手发",
+fid: "464867",
+forum_cityname: "hangzhou"
+},
+{
+site_id: "73",
+short_name: "wuhan",
+full_name: "wuhan",
+display_name: "武汉",
+domain: "wuhan.19lou.com",
+status: "0",
+forum_name: "随手发",
+fid: "464867",
+forum_cityname: "hangzhou"
+},
+{
+site_id: "80",
+short_name: "xiaoshan",
+full_name: "xiaoshan",
+display_name: "萧山",
+domain: "xiaoshan.19lou.com",
+status: "0",
+forum_name: "随手发",
+fid: "464867",
+forum_cityname: "hangzhou"
+},
+{
+site_id: "88",
+short_name: "yiwu",
+full_name: "yiwu",
+display_name: "义乌",
+domain: "yiwu.19lou.com",
+status: "0",
+forum_name: "随手发",
+fid: "464867",
+forum_cityname: "hangzhou"
+},
+{
+site_id: "69",
+short_name: "yuhang",
+full_name: "yuhang",
+display_name: "余杭",
+domain: "yuhang.19lou.com",
+status: "0",
+forum_name: "随手发",
+fid: "464867",
+forum_cityname: "hangzhou"
+},
+{
+site_id: "70",
+short_name: "zhoushan",
+full_name: "zhoushan",
+display_name: "舟山",
+domain: "zhoushan.19lou.com",
+status: "0",
+forum_name: "随手发",
+fid: "464867",
+forum_cityname: "hangzhou"
+},
+{
+site_id: "85",
+short_name: "zz",
+full_name: "zz",
+display_name: "郑州",
+domain: "zz.19lou.com",
+status: "0",
+forum_name: "随手发",
+fid: "464867",
+forum_cityname: "hangzhou"
+}
+],
+category_list: [
+{
+id: "1",
+name: "美食"
+},
+{
+id: "2",
+name: "情感"
+},
+{
+id: "3",
+name: "时尚"
+},
+{
+id: "4",
+name: "八卦"
+},
+{
+id: "5",
+name: "旅游摄影"
+},
+{
+id: "6",
+name: "运动"
+},
+{
+id: "7",
+name: "早知道"
+},
+{
+id: "8",
+name: "健康"
+},
+{
+id: "9",
+name: "小说"
+},
+{
+id: "9",
+name: "相亲"
+},
+{
+id: "9",
+name: "结婚"
+},
+{
+id: "10",
+name: "家居"
+},
+{
+id: "11",
+name: "亲子"
+},
+{
+id: "12",
+name: "教育"
+},
+{
+id: "13",
+name: "汽车"
+},
+{
+id: "14",
+name: "房产"
+},
+{
+id: "15",
+name: "求职"
+},
+{
+id: "16",
+name: "跳蚤市场"
+},
+{
+id: "17",
+name: "更多"
+},
+{
+id: "18",
+name: "测试"
+}
+],
+wap_version: [
+{
+ios_visitType: "1",
+ios_version: "7.0.6.116",
+ios_url: "http://att2.citysbs.com/hangzhou/soft/webview/test/2017091302/whole/ios_webView.zip",
+ios_full_url: "http://att2.citysbs.com/hangzhou/soft/webview/test/2017091302/whole/ios_webView.zip",
+ios_part_url: "http://att2.citysbs.com/hangzhou/soft/webview/test/2017091302/part/ios_webView.zip",
+android_visitType: "1",
+android_version: "7.0.6.116",
+android_url: "http://att2.citysbs.com/hangzhou/soft/webview/test/2017091302/whole/android_webView.zip",
+android_full_url: "http://att2.citysbs.com/hangzhou/soft/webview/test/2017091302/whole/android_webView.zip",
+android_part_url: "http://att2.citysbs.com/hangzhou/soft/webview/test/2017091302/part/android_webView.zip"
+}
+],
+wap_test_version: [
+{
+ios_visitType: "1",
+ios_version: "7.0.2.25",
+ios_url: "http://att2.citysbs.com/hangzhou/soft/webview/2017072001/whole/ios_webView.zip",
+ios_full_url: "http://att2.citysbs.com/hangzhou/soft/webview/2017072001/whole/ios_webView.zip",
+ios_part_url: "http://att2.citysbs.com/hangzhou/soft/webview/2017072001/part/ios_webView.zip",
+android_visitType: "1",
+android_version: "7.0.2.25",
+android_url: "http://att2.citysbs.com/hangzhou/soft/webview/2017072001/whole/android_webView.zip",
+android_full_url: "http://att2.citysbs.com/hangzhou/soft/webview/2017072001/whole/android_webView.zip",
+android_part_url: "http://att2.citysbs.com/hangzhou/soft/webview/2017072001/part/android_webView.zip"
+}
+],
+recom_desprition: "人间四月天，兴趣圈春天相关活动火热进行中！",
+recom_board_forum: [
+{
+bid: "16981457430982343",
+fid: "0",
+name: "晒萌娃送",
+board_type: "7",
+city_name: "hangzhou",
+recom_type: "0",
+cover: "http://att3.citysbs.com/no/hangzhou/2017/03/29/11/120x120-112525_v2_11841490757925863_052d988c103cb183603e55bf488cdb32.png",
+description: "",
+subscribe_num: "262",
+today_tid_num: "5136",
+announcement: "",
+status: "0",
+total_tid_num: "5136",
+subscribe: true,
+city_id: "666667",
+lon: "0.0",
+lat: "0.0",
+address: "",
+verify: "1"
+},
+{
+bid: "16311456709527390",
+fid: "0",
+name: "晒早餐咯",
+city_name: "hangzhou",
+board_type: "7",
+recom_type: "1",
+cover: "http://att3.citysbs.com/no/hangzhou/2017/03/29/11/120x120-112534_v2_18401490757934363_4f07d5416b627a5a5a1a6501726793bb.png",
+description: "",
+subscribe_num: "16866",
+today_tid_num: "6907",
+announcement: "",
+status: "0",
+total_tid_num: "6907",
+subscribe: true,
+city_id: "666667",
+lon: "0.0",
+lat: "0.0",
+address: "",
+verify: "2"
+},
+{
+bid: "817115940",
+fid: "0",
+name: "漂亮女生交友啦",
+city_name: "hangzhou",
+board_type: "7",
+recom_type: "0",
+cover: "http://att3.citysbs.com/no/hangzhou/2017/03/29/11/120x120-112542_v2_14271490757942718_2e2c2b51400cbc8dc8493427b8f7957d.png",
+description: "",
+subscribe_num: "4598",
+today_tid_num: "11205",
+announcement: "",
+status: "0",
+total_tid_num: "11205",
+subscribe: true,
+city_id: "666667",
+lon: "0.0",
+lat: "0.0",
+address: "",
+verify: "0"
+}
+],
+recom_circle_view: {
+circle_list: [
+{
+bid: "49571422430930030",
+fid: "0",
+name: "杭州房东房源",
+city_name: "hangzhou",
+recom_type: "0",
+cover: "http://att2.citysbs.com/hangzhou/2015/01/28/16/thumb_348x320-165407_v2_17961422435247590_77a2bb2859b01e16f5cfc87da563e36d.jpg",
+subscribe_num: "50414",
+total_tid_num: "33388",
+link: "http://www.19lou.com/r/1/hzhome.html"
+},
+{
+bid: "16311456709527390",
+fid: "0",
+name: "早餐你好",
+city_name: "hangzhou",
+recom_type: "0",
+cover: "http://att3.citysbs.com/no/hangzhou/2016/04/07/16/363x361-165813_v2_10771460019493682_7c1f77c6a60eb0b7d0f637057c3e20b0.png",
+subscribe_num: "1206",
+total_tid_num: "120",
+link: "http://www.19lou.com/r/1/zcnh.html"
+},
+{
+bid: "49271456450012989",
+fid: "0",
+name: "金币商城圈",
+city_name: "hangzhou",
+recom_type: "0",
+cover: "http://att3.citysbs.com/no/hangzhou/2016/02/26/09/800x800-092632_v2_13251456449992631_4bb20dee7fe85e49341c2b26c82a7cd0.png",
+subscribe_num: "411",
+total_tid_num: "69",
+link: "http://www.19lou.com/r/1/jbscltuy.html"
+}
+],
+recom_more_url: "http://www.baidu.com",
+recom_title: "哪里有好吃的"
+},
+news_adv_list: [
+{
+adv_img: "http://att3.citysbs.com/no/hangzhou/2015/04/27/17/120x120-175031_v2_16251430128231792_2ab49ab807ec6fd0ed370ed21ccdf891.jpg",
+subject: "哪里有好吃的",
+show_url: "http://www.19lou.com/r/1/nlyhcd.html"
+},
+{
+adv_img: "http://att3.citysbs.com/120x120/hangzhou/2015/04/20/14/6016x4016-145705_v2_19111429513025449_394b24c18703c3ba7eb13f4ccd902f1a.jpg",
+subject: "女神进化论333",
+show_url: "http://www.19lou.com/forum-15-thread-2691429065029631-1-1.html"
+}
+],
+rate_level: "101",
+checkin: "签到抽金币",
+no_publish: {
+hangzhou: [
+{
+fid: "1945,1415,179,1442,2158,122,2246,1614,1638,1637,260,1502,1500,1501"
+},
+{
+fid: "139,1596,464722,464767,385,464929,464839,464900,1614,54,1263,464712,394,57,69,1219"
+}
+],
+fz: [
+{
+fid: "2820,1146,1084"
+},
+{
+fid: "2593,1118,2816,2835,1163,2847"
+}
+],
+jiaxing: [
+{
+fid: "1503,792,2410,2408"
+},
+{
+fid: "2216,1447,2398,1813"
+}
+],
+taizhou: [
+{
+fid: "2263,2408,2075"
+},
+{
+fid: "2251,1450,1635,1954,2244,2248"
+}
+],
+cc: [
+{
+fid: "1153"
+},
+{
+fid: "1156,1157"
+}
+],
+huzhou: [
+{
+fid: "772,771"
+},
+{
+fid: "1446,1835,1842"
+}
+],
+jinhua: [
+{
+fid: "884,883,868,866"
+},
+{
+fid: "2338,1445,2175,1451,1814"
+}
+],
+ningbo: [
+{
+fid: "1996,2132,806"
+},
+{
+fid: "805,2144,1448,1990"
+}
+],
+quzhou: [
+{
+fid: "900,898"
+},
+{
+fid: "29,1452,1459"
+}
+],
+qz: [
+{
+fid: "106,105"
+},
+{
+fid: "4,1258"
+}
+],
+shaoxing: [
+{
+fid: "743,744,1573,745,1448"
+},
+{
+fid: "1565,1566,1443,1569"
+}
+],
+shh: [
+{
+fid: ""
+},
+{
+fid: "462480,464900,57"
+}
+],
+suzhou: [
+{
+fid: "927,1987"
+},
+{
+fid: "2016,1323"
+}
+],
+wenzhou: [
+{
+fid: "852,854,851"
+},
+{
+fid: "1444,2510"
+}
+],
+wuhan: [
+{
+fid: "2220"
+},
+{
+fid: "2225"
+}
+],
+yiwu: [
+{
+fid: "821,819"
+},
+{
+fid: "1456"
+}
+],
+zz: [
+{
+fid: ""
+},
+{
+fid: "26,27"
+}
+],
+chongqing: [
+{
+fid: "462480,20,462501,333,126,462490,462508,462510,462490,462481"
+},
+{
+fid: "2467,319,286,462487,18,462522,348,462507"
+}
+]
+},
+searchName: "大家都在搜：手机里的家常菜",
+deleteCoin: "30",
+goldMall: "超多好礼金币换",
+recom_more_url: "http://www.19lou.com",
+city_rec_circle: {
+chongqing: {
+rec_circle: [
+{
+bid: "16711432022870511",
+fid: "0",
+name: "闲置买卖交换",
+city_name: "hangzhou",
+recom_type: "0",
+cover: "http://att3.citysbs.com/no/hangzhou/2015/06/19/18/320x320-183228_v2_14731434709948003_fc8bb5dfbc7c0a1fa93e088e0efa2a1b.jpg",
+board_type: "7",
+description: "",
+subscribe_num: "42672",
+today_tid_num: "626",
+announcement: "",
+status: "0",
+total_tid_num: "190513",
+subscribe: true,
+city_id: "666667",
+lon: "0.0",
+lat: "0.0",
+address: "",
+verify: "0"
+},
+{
+bid: "48311458541686233",
+fid: "0",
+name: "每",
+city_name: "hangzhou",
+recom_type: "1",
+cover: "http://att3.citysbs.com/no/hangzhou/2016/03/21/14/656x656-141218_v2_16671458540738854_9fe3105be502c17b43ff3143b81cf1aa.jpg",
+board_type: "7",
+description: "",
+subscribe_num: "127",
+today_tid_num: "19",
+announcement: "",
+status: "0",
+total_tid_num: "190513",
+subscribe: true,
+city_id: "666667",
+lon: "0.0",
+lat: "0.0",
+address: "",
+verify: "0"
+},
+{
+bid: "49581442973612038",
+fid: "0",
+name: "听歌",
+city_name: "hangzhou",
+recom_type: "0",
+cover: "http://att2.citysbs.com/hangzhou/2015/09/23/09/320x320-095940_v2_11781442973580959_2e6bf7d349f6786157df647c00f61c3d.jpg",
+board_type: "7",
+description: "",
+subscribe_num: "3286",
+today_tid_num: "216",
+announcement: "",
+status: "0",
+total_tid_num: "190513",
+subscribe: true,
+city_id: "666667",
+lon: "0.0",
+lat: "0.0",
+address: "",
+verify: "0"
+}
+],
+rec_dec: "chongqing"
+},
+taizhou: {
+rec_circle: [
+{
+bid: "16711432022870511",
+fid: "0",
+name: "跳蚤",
+city_name: "hangzhou",
+recom_type: "0",
+cover: "http://att3.citysbs.com/no/hangzhou/2015/06/19/18/320x320-183228_v2_14731434709948003_fc8bb5dfbc7c0a1fa93e088e0efa2a1b.jpg",
+board_type: "7",
+description: "",
+subscribe_num: "42672",
+today_tid_num: "626",
+announcement: "",
+status: "0",
+total_tid_num: "190513",
+subscribe: true,
+city_id: "666667",
+lon: "0.0",
+lat: "0.0",
+address: "",
+verify: "0"
+},
+{
+bid: "48311458541686233",
+fid: "0",
+name: "每天的",
+city_name: "hangzhou",
+recom_type: "1",
+cover: "http://att3.citysbs.com/no/hangzhou/2016/03/21/14/656x656-141218_v2_16671458540738854_9fe3105be502c17b43ff3143b81cf1aa.jpg",
+board_type: "7",
+description: "",
+subscribe_num: "127",
+today_tid_num: "19",
+announcement: "",
+status: "0",
+total_tid_num: "190513",
+subscribe: true,
+city_id: "666667",
+lon: "0.0",
+lat: "0.0",
+address: "",
+verify: "0"
+},
+{
+bid: "49581442973612038",
+fid: "0",
+name: "雨天，静静听歌",
+city_name: "hangzhou",
+recom_type: "0",
+cover: "http://att2.citysbs.com/hangzhou/2015/09/23/09/320x320-095940_v2_11781442973580959_2e6bf7d349f6786157df647c00f61c3d.jpg",
+board_type: "7",
+description: "",
+subscribe_num: "3286",
+today_tid_num: "216",
+announcement: "",
+status: "0",
+total_tid_num: "190513",
+subscribe: true,
+city_id: "666667",
+lon: "0.0",
+lat: "0.0",
+address: "",
+verify: "0"
+}
+],
+rec_dec: "taizhou"
+},
+jiaxing: {
+rec_circle: [
+{
+bid: "16711432022870511",
+fid: "0",
+name: "跳蚤市场闲置买卖交",
+city_name: "hangzhou",
+recom_type: "0",
+cover: "http://att3.citysbs.com/no/hangzhou/2015/06/19/18/320x320-183228_v2_14731434709948003_fc8bb5dfbc7c0a1fa93e088e0efa2a1b.jpg",
+board_type: "7",
+description: "",
+subscribe_num: "42672",
+today_tid_num: "626",
+announcement: "",
+status: "0",
+total_tid_num: "190513",
+subscribe: true,
+city_id: "666667",
+lon: "0.0",
+lat: "0.0",
+address: "",
+verify: "0"
+},
+{
+bid: "48311458541686233",
+fid: "0",
+name: "每天的小烦恼，说给",
+city_name: "hangzhou",
+recom_type: "1",
+cover: "http://att3.citysbs.com/no/hangzhou/2016/03/21/14/656x656-141218_v2_16671458540738854_9fe3105be502c17b43ff3143b81cf1aa.jpg",
+board_type: "7",
+description: "",
+subscribe_num: "127",
+today_tid_num: "19",
+announcement: "",
+status: "0",
+total_tid_num: "190513",
+subscribe: true,
+city_id: "666667",
+lon: "0.0",
+lat: "0.0",
+address: "",
+verify: "0"
+},
+{
+bid: "49581442973612038",
+fid: "0",
+name: "雨天，静",
+city_name: "hangzhou",
+recom_type: "0",
+cover: "http://att2.citysbs.com/hangzhou/2015/09/23/09/320x320-095940_v2_11781442973580959_2e6bf7d349f6786157df647c00f61c3d.jpg",
+board_type: "7",
+description: "",
+subscribe_num: "3286",
+today_tid_num: "216",
+announcement: "",
+status: "0",
+total_tid_num: "190513",
+subscribe: true,
+city_id: "666667",
+lon: "0.0",
+lat: "0.0",
+address: "",
+verify: "0"
+}
+],
+rec_dec: "jiaxing"
+}
+},
+hot_search: [
+"挑情节",
+"现言",
+"甜宠",
+"欢喜冤家",
+"古言",
+"种田",
+"架空",
+"总裁",
+"娱乐圈",
+"女配",
+"重生",
+"民国文",
+"空间"
+],
+index_rec_circle: {
+hangzhou: {
+rec_circle: [
+{
+bid: "49051465192103065",
+fid: "0",
+name: "Q版小头像 ",
+city_name: "hangzhou",
+recom_type: "0",
+cover: "http://att3.citysbs.com/no/hangzhou/2016/07/06/15/120x120-152456_v2_20221467789896894_24f9c0ce496f756b1b47f6eff30be02e.jpg",
+board_type: "7",
+verify: "0"
+},
+{
+bid: "53011466065351494",
+fid: "0",
+name: "狗血和奇葩 ",
+city_name: "hangzhou",
+recom_type: "1",
+cover: "http://att3.citysbs.com/no/hangzhou/2016/07/06/15/120x120-152603_v2_18411467789963467_281cd72e79ec00bb2112935f38797758.jpg",
+board_type: "7",
+verify: "0"
+},
+{
+bid: "48131455614847289",
+fid: "0",
+name: "情感小树洞 ",
+city_name: "hangzhou",
+recom_type: "0",
+cover: "http://att3.citysbs.com/no/hangzhou/2017/02/15/14/320x320-143427_v2_11661487140467082_97a940ecd367de6802ff40261dd3ca3d.jpg",
+board_type: "7",
+verify: "0"
+},
+{
+bid: "49041460461855679",
+fid: "0",
+name: "表情包集合地 ",
+city_name: "hangzhou",
+recom_type: "1",
+cover: "http://att3.citysbs.com/no/hangzhou/2016/07/06/15/120x120-152822_v2_14311467790102741_4e0da20064992dc91d73aa1d462c4f55.jpg",
+board_type: "7",
+verify: "0"
+},
+{
+bid: "16311456709527390",
+fid: "0",
+name: "早餐你好 ",
+city_name: "hangzhou",
+recom_type: "0",
+cover: "http://att3.citysbs.com/no/hangzhou/2016/07/06/15/120x120-152914_v2_13711467790154513_7ec3411c1ccdf8dbad732e42bd0229d8.jpg",
+board_type: "7",
+verify: "0"
+},
+{
+bid: "16981457430982343",
+fid: "0",
+name: "泡泡小人生 ",
+city_name: "hangzhou",
+recom_type: "0",
+cover: "http://att3.citysbs.com/no/hangzhou/2016/07/06/15/120x120-153153_v2_19711467790313907_32586a490aec4e0602f8638b93ab0270.jpg",
+board_type: "7",
+verify: "0"
+},
+{
+bid: "48491422324636969",
+fid: "0",
+name: "我笑点很低 ",
+city_name: "hangzhou",
+recom_type: "1",
+cover: "http://att3.citysbs.com/no/hangzhou/2016/07/06/15/120x120-153313_v2_20171467790393532_989a156041da1beba9d8dde434259d56.jpg",
+board_type: "7",
+verify: "0"
+},
+{
+bid: "49361457079941475",
+fid: "0",
+name: "医生在线咨询 ",
+city_name: "hangzhou",
+recom_type: "0",
+cover: "http://att3.citysbs.com/no/hangzhou/2016/07/06/15/120x120-153401_v2_14171467790441275_0e88546c836c1f7f75adc02d31b7b52b.jpg",
+board_type: "7",
+verify: "0"
+},
+{
+bid: "48731422327969462",
+fid: "0",
+name: "靠谱恋爱圈 ",
+city_name: "hangzhou",
+recom_type: "0",
+cover: "http://att3.citysbs.com/no/hangzhou/2016/07/06/15/120x120-153504_v2_10251467790504267_209e2c9bfbaf87547b88bccac13c6677.jpg",
+board_type: "7",
+verify: "0"
+}
+]
+},
+chongqing: {
+rec_circle: [
+{
+bid: "16711432022870511",
+fid: "0",
+name: "闲置买卖交换",
+city_name: "hangzhou",
+recom_type: "0",
+cover: "http://att3.citysbs.com/no/hangzhou/2015/06/19/18/320x320-183228_v2_14731434709948003_fc8bb5dfbc7c0a1fa93e088e0efa2a1b.jpg",
+board_type: "7",
+verify: "0"
+},
+{
+bid: "48311458541686233",
+fid: "0",
+name: "每",
+city_name: "hangzhou",
+recom_type: "1",
+cover: "http://att3.citysbs.com/no/hangzhou/2016/03/21/14/656x656-141218_v2_16671458540738854_9fe3105be502c17b43ff3143b81cf1aa.jpg",
+board_type: "7",
+verify: "0"
+},
+{
+bid: "49581442973612038",
+fid: "0",
+name: "听歌",
+city_name: "hangzhou",
+recom_type: "0",
+cover: "http://att2.citysbs.com/hangzhou/2015/09/23/09/320x320-095940_v2_11781442973580959_2e6bf7d349f6786157df647c00f61c3d.jpg",
+board_type: "7",
+verify: "0"
+},
+{
+bid: "16711432022870511",
+fid: "0",
+name: "闲置买卖交换",
+city_name: "hangzhou",
+recom_type: "0",
+cover: "http://att3.citysbs.com/no/hangzhou/2015/06/19/18/320x320-183228_v2_14731434709948003_fc8bb5dfbc7c0a1fa93e088e0efa2a1b.jpg",
+board_type: "7",
+verify: "0"
+},
+{
+bid: "48311458541686233",
+fid: "0",
+name: "每",
+city_name: "hangzhou",
+recom_type: "1",
+cover: "http://att3.citysbs.com/no/hangzhou/2016/03/21/14/656x656-141218_v2_16671458540738854_9fe3105be502c17b43ff3143b81cf1aa.jpg",
+board_type: "7",
+verify: "0"
+},
+{
+bid: "49581442973612038",
+fid: "0",
+name: "听歌",
+city_name: "hangzhou",
+recom_type: "0",
+cover: "http://att2.citysbs.com/hangzhou/2015/09/23/09/320x320-095940_v2_11781442973580959_2e6bf7d349f6786157df647c00f61c3d.jpg",
+board_type: "7",
+verify: "0"
+},
+{
+bid: "16711432022870511",
+fid: "0",
+name: "闲置买卖交换",
+city_name: "hangzhou",
+recom_type: "0",
+cover: "http://att3.citysbs.com/no/hangzhou/2015/06/19/18/320x320-183228_v2_14731434709948003_fc8bb5dfbc7c0a1fa93e088e0efa2a1b.jpg",
+board_type: "7",
+verify: "0"
+},
+{
+bid: "48311458541686233",
+fid: "0",
+name: "每",
+city_name: "hangzhou",
+recom_type: "1",
+cover: "http://att3.citysbs.com/no/hangzhou/2016/03/21/14/656x656-141218_v2_16671458540738854_9fe3105be502c17b43ff3143b81cf1aa.jpg",
+board_type: "7",
+verify: "0"
+},
+{
+bid: "49581442973612038",
+fid: "0",
+name: "听歌",
+city_name: "hangzhou",
+recom_type: "0",
+cover: "http://att2.citysbs.com/hangzhou/2015/09/23/09/320x320-095940_v2_11781442973580959_2e6bf7d349f6786157df647c00f61c3d.jpg",
+board_type: "7",
+verify: "0"
+}
+]
+},
+taizhou: {
+rec_circle: [
+{
+bid: "16711432022870511",
+fid: "0",
+name: "闲置买卖交换",
+city_name: "hangzhou",
+recom_type: "0",
+cover: "http://att3.citysbs.com/no/hangzhou/2015/06/19/18/320x320-183228_v2_14731434709948003_fc8bb5dfbc7c0a1fa93e088e0efa2a1b.jpg",
+board_type: "7",
+verify: "0"
+},
+{
+bid: "48311458541686233",
+fid: "0",
+name: "每",
+city_name: "hangzhou",
+recom_type: "1",
+cover: "http://att3.citysbs.com/no/hangzhou/2016/03/21/14/656x656-141218_v2_16671458540738854_9fe3105be502c17b43ff3143b81cf1aa.jpg",
+board_type: "7",
+verify: "0"
+},
+{
+bid: "49581442973612038",
+fid: "0",
+name: "听歌",
+city_name: "hangzhou",
+recom_type: "0",
+cover: "http://att2.citysbs.com/hangzhou/2015/09/23/09/320x320-095940_v2_11781442973580959_2e6bf7d349f6786157df647c00f61c3d.jpg",
+board_type: "7",
+verify: "0"
+}
+]
+},
+jiaxing: {
+rec_circle: [
+{
+bid: "16711432022870511",
+fid: "0",
+name: "闲置买卖交换",
+city_name: "hangzhou",
+recom_type: "0",
+cover: "http://att3.citysbs.com/no/hangzhou/2015/06/19/18/320x320-183228_v2_14731434709948003_fc8bb5dfbc7c0a1fa93e088e0efa2a1b.jpg",
+board_type: "7",
+verify: "0"
+},
+{
+bid: "48311458541686233",
+fid: "0",
+name: "每",
+city_name: "hangzhou",
+recom_type: "1",
+cover: "http://att3.citysbs.com/no/hangzhou/2016/03/21/14/656x656-141218_v2_16671458540738854_9fe3105be502c17b43ff3143b81cf1aa.jpg",
+board_type: "7",
+verify: "0"
+},
+{
+bid: "49581442973612038",
+fid: "0",
+name: "听歌",
+city_name: "hangzhou",
+recom_type: "0",
+cover: "http://att2.citysbs.com/hangzhou/2015/09/23/09/320x320-095940_v2_11781442973580959_2e6bf7d349f6786157df647c00f61c3d.jpg",
+board_type: "7",
+verify: "0"
+}
+]
+}
+},
+novel_index_tag: [
+"挑情节",
+"现言",
+"甜宠",
+"欢喜冤家",
+"古言",
+"种田",
+"架空",
+"总裁",
+"娱乐圈",
+"女配",
+"重生",
+"民国文",
+"空间"
+],
+circle_top_rec: {
+hangzhou: "53111470641516184",
+chongqing: "178021456378731879",
+jiaxing: "76351470708420763",
+taizhou: "53191470712086523"
+},
+question: "您好，请输入您想要咨询的问题，小帮会尽快给与您回复，谢谢！",
+head_decorator: {
+list_decorator: "http://att3.citysbs.com/no/hangzhou/2017/05/31/16/156x156-163206_v2_12651496219526726_a750b8e526bbe3a25145052cffc3dbd4.png",
+decorator_normal: "http://att3.citysbs.com/no/hangzhou/2017/05/31/16/303x324-163143_v2_15251496219503140_cc9b486dec1c9586c7ce6adf30f33347.png",
+decorator_hightlighted: "http://att3.citysbs.com/no/hangzhou/2017/05/31/16/303x324-163110_v2_10821496219470950_3f1134387634ae88ce5b67ccd3c4687c.png",
+qipao_pic_url: "http://att3.citysbs.com/no/hangzhou/2017/05/31/14/210x250-145948_v2_20871496213988814_ced99310dbcc32881e20f0520e3e8ab5.png",
+qipao_url: "http://www.19lou.com/forum-2110-thread-10261494919353445-1-1.html",
+show_decorator: "yes",
+qipao_myHome_pic: "http://att3.citysbs.com/no/hangzhou/2017/05/31/14/210x250-145948_v2_20871496213988814_ced99310dbcc32881e20f0520e3e8ab5.png",
+qipao_othersHome_pic: "http://att3.citysbs.com/no/hangzhou/2017/05/31/14/480x100-145829_v2_18181496213909223_f681b2e348f639dfa5db16afa05dba3b.png",
+decorator_home: "http://att3.citysbs.com/no/hangzhou/2017/06/19/15/132x132-155523_v2_10181497858923447_e5094f6a2e7940ac0cb65b56e18148fa.png",
+decorator_group: "http://att3.citysbs.com/no/hangzhou/2017/06/19/15/156x156-155250_v2_15951497858770883_a750b8e526bbe3a25145052cffc3dbd4.png",
+decorator_message: "http://att3.citysbs.com/no/hangzhou/2017/06/21/16/192x192-163303_v2_16721498033983950_64978add890da553331314c792e0902c.png"
+},
+share_https: true,
+publish_tag: {
+hangzhou: [
+{
+name: "我要爆料",
+fid: "269",
+fname: "我要爆料"
+},
+{
+name: "自拍控",
+fid: "36021455790013000",
+fname: "自拍控"
+},
+{
+name: "随拍",
+fid: "49471461639371881",
+fname: "随手拍大广场"
+},
+{
+name: "求助",
+fid: "79",
+fname: "帮帮忙"
+},
+{
+name: "卖闲置",
+fid: "49091464059877491",
+fname: "闲置交换"
+},
+{
+name: "求职",
+fid: "48921424061533574",
+fname: "杭州求职招聘"
+},
+{
+name: "杭州租房",
+fid: "49571422430930030",
+fname: "杭州房东房源"
+},
+{
+name: "单身打卡",
+fid: "16231460687028557",
+fname: "相亲嘉年华"
+},
+{
+name: "秀婚礼",
+fid: "291",
+fname: "结婚大本营"
+},
+{
+name: "秀家",
+fid: "72",
+fname: "装修大本营"
+},
+{
+name: "晒宝宝",
+fid: "49701461650798831",
+fname: "一起来晒娃"
+},
+{
+name: "结婚日记测试",
+fid: "464955",
+fname: "结婚日记测试"
+},
+{
+name: "装修日记测试",
+fid: "464956",
+fname: "装修日记测试"
+}
+],
+chongqing: [
+{
+name: "爆料",
+fid: "233",
+fname: "爆料"
+},
+{
+name: "晒物",
+fid: "197",
+fname: "晒物"
+},
+{
+name: "美食",
+fid: "174",
+fname: "美食"
+},
+{
+name: "情感",
+fid: "221",
+fname: "情感"
+},
+{
+name: "潮流消费",
+fid: "5",
+fname: "潮流消费"
+},
+{
+name: "相亲",
+fid: "222",
+fname: "相亲"
+},
+{
+name: "旅游",
+fid: "11",
+fname: "旅游"
+},
+{
+name: "房产",
+fid: "314",
+fname: "房产"
+},
+{
+name: "装修",
+fid: "148",
+fname: "装修"
+},
+{
+name: "结婚",
+fid: "26",
+fname: "结婚"
+},
+{
+name: "车事",
+fid: "198",
+fname: ""
+},
+{
+name: "育儿",
+fid: "462534",
+fname: "育儿"
+}
+],
+jiaxing: [
+{
+name: "情感",
+fid: "783",
+fname: "嘉人有约"
+},
+{
+name: "找对象",
+fid: "2215",
+fname: "淘男淘女"
+},
+{
+name: "单身圈",
+fid: "36671456390098021",
+fname: "嘉兴小红娘"
+},
+{
+name: "车友会",
+fid: "781",
+fname: "禾城车友会"
+},
+{
+name: "嘉兴楼市",
+fid: "2219",
+fname: "房产楼市"
+},
+{
+name: "我秀我家",
+fid: "787",
+fname: "装修大本营"
+},
+{
+name: "吃货圈",
+fid: "48821456803425709",
+fname: "嘉兴吃货圈"
+},
+{
+name: "我要招聘",
+fid: "36251456480067455",
+fname: "嘉兴招聘找工作"
+},
+{
+name: "爆料",
+fid: "778",
+fname: "讲空头"
+},
+{
+name: "随手拍",
+fid: "48671456365295222",
+fname: "随手拍嘉兴"
+},
+{
+name: "妇保专家",
+fid: "36051464142697825",
+fname: "嘉兴妇保院产科儿科专家在线"
+},
+{
+name: "结婚日记",
+fid: "785",
+fname: "结婚交流圈"
+}
+],
+taizhou: [
+{
+name: "白搭爆料",
+fid: "827",
+fname: "讲白搭"
+},
+{
+name: "美食",
+fid: "828",
+fname: "台州美食"
+},
+{
+name: "旅游",
+fid: "829",
+fname: "台州旅游"
+},
+{
+name: "装修交流",
+fid: "804",
+fname: "台州装修大本营"
+},
+{
+name: "结婚筹备",
+fid: "834",
+fname: "谈婚论嫁"
+},
+{
+name: "单身交友",
+fid: "2163",
+fname: "单身男女"
+},
+{
+name: "情感八卦",
+fid: "832",
+fname: "情感生活"
+},
+{
+name: "亲子",
+fid: "1426",
+fname: "孩爸孩妈聊天室"
+},
+{
+name: "房产楼市",
+fid: "2012",
+fname: "房产楼市"
+},
+{
+name: "汽车街拍",
+fid: "830",
+fname: "拉风汽车"
+},
+{
+name: "签到赚金币",
+fid: "48351456466003927",
+fname: "每日签到打卡圈"
+},
+{
+name: "二手交易",
+fid: "9441456473204033",
+fname: "台州二手交易圈"
+}
+]
+},
+discovery_list: {
+hangzhou: [
+{
+name: "找对象",
+logo_url: "http://att3.citysbs.com/no/hangzhou/2017/03/30/16/150x150-161207_v2_15611490861527248_967b94db83d3f717cacd6a263cdad58e.png",
+link_url: "https://www.19lou.com/love/user/index.html",
+description: "装修设计"
+},
+{
+name: "大婚日",
+logo_url: "http://att3.citysbs.com/no/hangzhou/2017/03/30/16/150x150-161154_v2_10401490861514830_0cc13818d8cab0e6ecbdddac8c636245.png",
+link_url: "http://m.19lou.com/d/?r=nineteenlou://second-marry1",
+description: "晒最美婚照"
+},
+{
+name: "装房子",
+logo_url: "http://att3.citysbs.com/no/hangzhou/2017/03/30/16/150x150-161139_v2_19531490861499620_4b24cf0ae4d6f14a399cf752624b6ec5.png",
+link_url: "http://m.19lou.com/d/?r=nineteenlou://second-home1",
+description: "装修进行中"
+},
+{
+name: "育儿经",
+logo_url: "http://att3.citysbs.com/no/hangzhou/2017/03/30/16/150x150-161221_v2_12651490861541511_ef03c1b5f1a44bc8929cfac206ffd159.png",
+link_url: "http://m.19lou.com/d/?r=nineteenlou://second-baby1",
+description: "晒宝宝"
+}
+],
+jiaxing: [
+{
+name: "找对象",
+logo_url: "http://att2.citysbs.com/jiaxing/2017/03/29/09/middle_100x100-095803_v2_10951490752683150_3d288d2682667ca8b161339c772a107d.jpg",
+link_url: "http://jiaxing.19lou.com/forum-2215-1.html",
+description: "装修设计"
+},
+{
+name: "我要结婚",
+logo_url: "http://att2.citysbs.com/jiaxing/2017/03/28/17/100x100-170219_v2_19421490691739771_623c8527c773c2e5d5005d8165f11c7a.jpg",
+link_url: "http://jiaxing.19lou.com/forum-785-1.html",
+description: "晒最美婚照"
+},
+{
+name: "家居装修",
+logo_url: "http://att2.citysbs.com/jiaxing/2017/03/28/16/230x230-165753_v2_16871490691473205_64a154906e82da4c22c273bb5a2d15bd.jpg",
+link_url: "http://jiaxing.19lou.com/forum-787-1.html",
+description: "装修进行中"
+},
+{
+name: "儿科专家",
+logo_url: "http://att2.citysbs.com/jiaxing/2017/03/29/08/100x100-085228_v2_11791490748748846_c595aa3cba1c40ec4034011718edfe80.jpg",
+link_url: "http://jiaxing.19lou.com/r/58/ymjlq.html",
+description: "晒宝宝"
+}
+],
+taizhou: [
+{
+name: "谈婚论嫁",
+logo_url: "http://att3.citysbs.com/no/taizhou/2017/03/28/17/160x160-170505_v2_10261490691905431_e440a78a9d3226c9db0254d9d71a46e7.jpg",
+link_url: "http://taizhou.19lou.com/r/37/tzthljgs.html",
+description: "装修设计"
+},
+{
+name: "找对象",
+logo_url: "http://att3.citysbs.com/no/taizhou/2017/03/29/08/100x100-085842_v2_11481490749122233_da6850ad34162578419cfff34e9b8f47.png",
+link_url: "http://taizhou.19lou.com/r/37/tzzdx.html",
+description: "晒最美婚照"
+},
+{
+name: "家居装修",
+logo_url: "http://att3.citysbs.com/no/taizhou/2017/03/29/08/100x100-085228_v2_14651490748748526_b7f353f9c5c7899e5d3185875ce615e1.png",
+link_url: "http://home.19lou.com/r/37/tzjzjh.html",
+description: "装修进行中"
+},
+{
+name: "养孩子",
+logo_url: "https://att2.citysbs.com/taizhou/2017/03/28/17/middle_160x160-171240_v2_20671490692360371_2334b0586369928c39d3e90e3c3dbd7c.jpg",
+link_url: "http://m.19lou.com/d/?r=nineteenlou://second-baby2",
+description: "晒宝宝"
+}
+],
+chongqing: [
+{
+name: "相亲脱单",
+logo_url: "http://att3.citysbs.com/no/chongqing/2017/03/29/15/750x750-150628_v2_14241490771188002_b9d90cab03d33c29211c438b56601c0b.png",
+link_url: "http://go.cqmmgo.com/forum-222-1.html",
+description: "装修设计"
+},
+{
+name: "要结婚",
+logo_url: "http://att3.citysbs.com/no/chongqing/2017/03/29/15/750x750-150407_v2_12871490771047721_b2e2fce2091851ead4362660c07bf492.png",
+link_url: "http://go.cqmmgo.com/forum-26-1.html",
+description: "晒最美婚照"
+},
+{
+name: "要装修",
+logo_url: "http://att3.citysbs.com/no/chongqing/2017/03/29/15/750x750-150647_v2_17881490771207703_e363c2103b2e19ad76d537815398c85c.png",
+link_url: "http://go.cqmmgo.com/forum-148-1.html",
+description: "装修进行中"
+},
+{
+name: "亲子乐园",
+logo_url: "http://att3.citysbs.com/no/chongqing/2017/03/29/15/750x750-150724_v2_20511490771244051_9affeb79406dd3be77e0f40b4d1de1b5.png",
+link_url: "http://m.19lou.com/d/?r=nineteenlou://second-baby3",
+description: "晒宝宝"
+}
+]
+},
+index_adv_open: true,
+gif_open: true,
+spare_domain: [
+"sec.19lou.cn"
+],
+chatCacheOff: true,
+list_adv_open: {
+open: true,
+open_id: "988,49581442973612038,49051465192103065"
+}
+}
