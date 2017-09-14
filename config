@@ -721,7 +721,7 @@ ios_url: "http://att2.citysbs.com/hangzhou/soft/webview/test/2017091302/whole/io
 ios_full_url: "http://att2.citysbs.com/hangzhou/soft/webview/test/2017091302/whole/ios_webView.zip",
 ios_part_url: "http://att2.citysbs.com/hangzhou/soft/webview/test/2017091302/part/ios_webView.zip",
 android_visitType: "1",
-android_version: "7.0.6.117",
+android_version: "7.0.6.119",
 android_url: "http://att2.citysbs.com/hangzhou/soft/webview/test/2017091302/whole/android_webView.zip",
 android_full_url: "http://att2.citysbs.com/hangzhou/soft/webview/test/2017091302/whole/android_webView.zip",
 android_part_url: "http://att2.citysbs.com/hangzhou/soft/webview/test/2017091302/part/android_webView.zip"
