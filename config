@@ -716,15 +716,15 @@ name: "测试"
 wap_version: [
 {
 ios_visitType: "1",
-ios_version: "7.0.6.116",
-ios_url: "http://att2.citysbs.com/hangzhou/soft/webview/test/2017091302/whole/ios_webView.zip",
-ios_full_url: "http://att2.citysbs.com/hangzhou/soft/webview/test/2017091302/whole/ios_webView.zip",
-ios_part_url: "http://att2.citysbs.com/hangzhou/soft/webview/test/2017091302/part/ios_webView.zip",
+ios_version: "7.1.0.10",
+ios_url: "http://att2.citysbs.com/hangzhou/soft/webview/test/2017102302/whole/ios_webView.zip",
+ios_full_url: "http://att2.citysbs.com/hangzhou/soft/webview/test/2017102302/whole/ios_webView.zip",
+ios_part_url: "http://att2.citysbs.com/hangzhou/soft/webview/test/2017102302/part/ios_webView.zip",
 android_visitType: "1",
-android_version: "7.0.6.116",
-android_url: "http://att2.citysbs.com/hangzhou/soft/webview/test/2017091302/whole/android_webView.zip",
-android_full_url: "http://att2.citysbs.com/hangzhou/soft/webview/test/2017091302/whole/android_webView.zip",
-android_part_url: "http://att2.citysbs.com/hangzhou/soft/webview/test/2017091302/part/android_webView.zip"
+android_version: "7.1.0.10",
+android_url: "http://att2.citysbs.com/hangzhou/soft/webview/test/2017102302/whole/android_webView.zip",
+android_full_url: "http://att2.citysbs.com/hangzhou/soft/webview/test/2017102302/whole/android_webView.zip",
+android_part_url: "http://att2.citysbs.com/hangzhou/soft/webview/test/2017102302/part/android_webView.zip"
 }
 ],
 wap_test_version: [
@@ -859,7 +859,7 @@ show_url: "http://www.19lou.com/forum-15-thread-2691429065029631-1-1.html"
 }
 ],
 rate_level: "101",
-checkin: "签到抽金币22222",
+checkin: "签到抽金币",
 no_publish: {
 hangzhou: [
 {
@@ -1512,17 +1512,17 @@ taizhou: "53191470712086523"
 },
 question: "您好，请输入您想要咨询的问题，小帮会尽快给与您回复，谢谢！",
 head_decorator: {
-list_decorator: "http://att3.citysbs.com/no/hangzhou/2017/05/31/16/156x156-163206_v2_12651496219526726_a750b8e526bbe3a25145052cffc3dbd4.png",
-decorator_normal: "http://att3.citysbs.com/no/hangzhou/2017/05/31/16/303x324-163143_v2_15251496219503140_cc9b486dec1c9586c7ce6adf30f33347.png",
-decorator_hightlighted: "http://att3.citysbs.com/no/hangzhou/2017/05/31/16/303x324-163110_v2_10821496219470950_3f1134387634ae88ce5b67ccd3c4687c.png",
-qipao_pic_url: "http://att3.citysbs.com/no/hangzhou/2017/05/31/14/210x250-145948_v2_20871496213988814_ced99310dbcc32881e20f0520e3e8ab5.png",
-qipao_url: "http://www.19lou.com/forum-2110-thread-10261494919353445-1-1.html",
+list_decorator: "http://att3.citysbs.com/no/hangzhou/2017/10/09/13/156x156-132715_v2_20151507526835739_44b765de146fc5b4d066613bf82e320d.png",
+decorator_normal: "http://att3.citysbs.com/no/hangzhou/2017/10/09/13/303x324-132852_v2_12971507526932132_99df4f9c40579315b278d98fc052f505.png",
+decorator_hightlighted: "http://att3.citysbs.com/no/hangzhou/2017/10/09/13/303x324-132830_v2_14181507526910360_2486173fd13386fa679220a1d810720c.png",
+qipao_pic_url: "http://att3.citysbs.com/no/hangzhou/2017/09/28/10/315x375-101030_v2_13751506564630442_608f6e85b4da69f1e12b52c31692074f.png",
+qipao_url: "http://www.19lou.com/forum-464968-thread-61971506758479458-1-1.html",
 show_decorator: "yes",
-qipao_myHome_pic: "http://att3.citysbs.com/no/hangzhou/2017/05/31/14/210x250-145948_v2_20871496213988814_ced99310dbcc32881e20f0520e3e8ab5.png",
-qipao_othersHome_pic: "http://att3.citysbs.com/no/hangzhou/2017/05/31/14/480x100-145829_v2_18181496213909223_f681b2e348f639dfa5db16afa05dba3b.png",
-decorator_home: "http://att3.citysbs.com/no/hangzhou/2017/06/19/15/132x132-155523_v2_10181497858923447_e5094f6a2e7940ac0cb65b56e18148fa.png",
-decorator_group: "http://att3.citysbs.com/no/hangzhou/2017/06/19/15/156x156-155250_v2_15951497858770883_a750b8e526bbe3a25145052cffc3dbd4.png",
-decorator_message: "http://att3.citysbs.com/no/hangzhou/2017/06/21/16/192x192-163303_v2_16721498033983950_64978add890da553331314c792e0902c.png"
+qipao_myHome_pic: "http://att3.citysbs.com/no/hangzhou/2017/09/28/10/315x375-101030_v2_13751506564630442_608f6e85b4da69f1e12b52c31692074f.png",
+qipao_othersHome_pic: "http://att3.citysbs.com/no/hangzhou/2017/09/28/10/720x150-101112_v2_14721506564672389_492183096def14f20b075163cab7bf0a.png",
+decorator_home: "http://att3.citysbs.com/no/hangzhou/2017/10/09/13/132x132-132940_v2_14721507526980201_71d09ea1df19859aee5c488f9e94fbc6.png",
+decorator_group: "http://att3.citysbs.com/no/hangzhou/2017/10/09/13/156x156-133021_v2_20691507527021948_55d316c7534af99659684aa2e8900756.png",
+decorator_message: "http://att3.citysbs.com/no/hangzhou/2017/10/09/13/192x204-133047_v2_17101507527047851_a6dd084aed9038bec10b02befed97590.png"
 },
 share_https: true,
 publish_tag: {
