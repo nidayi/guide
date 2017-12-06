@@ -43,6 +43,7 @@
     <a href="javascript:;" class="calendarEvent" onclick="calendarEvent('delete');">日历事件删除</a></br>
     <a href="javascript:;" class="calendarEvent" onclick="getWxData();">获取微信数据</a></br>
     <a href="javascript:;" class="pushToWXLogin" onclick="pushToWXLogin();">退出并微信登录</a></br>
+    <a href="javascript:;" class="f" onclick="j();">不含刷新web页面--四个参数2</a></br>
 
 
 	<script type="text/javascript">
@@ -109,6 +110,14 @@
             
             connectWebViewJavascriptBridge(function(bridge){
                                            bridge.createWebPage("百度搜索","https://www.baidu.com","",JSON.stringify(data));
+                                           });
+        }
+	function j(){
+            var data = {};
+            data.params= {"isHasRefresh":false};
+            
+            connectWebViewJavascriptBridge(function(bridge){
+                                           bridge.createWebPage("百度搜索","https://www.baidu.com","",JSON.stringify({"isHasRefresh":false}));
                                            });
         }
         
