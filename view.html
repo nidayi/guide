@@ -42,7 +42,8 @@
     <a href="javascript:;" class="calendarEvent" onclick="calendarEvent('delete');">日历事件删除</a></br>
     <a href="javascript:;" class="calendarEvent" onclick="getWxData();">获取微信数据</a></br>
     <a href="javascript:;" class="pushToWXLogin" onclick="pushToWXLogin();">退出并微信登录</a></br>
-    <a href="javascript:;" class="f" onclick="j();">不含刷新web页面--四个参数2</a></br>
+    <a href="javascript:;" class="f" onclick="j();">刷新web页面</a></br>
+    <a href="javascript:;" class="f" onclick="k();">不刷新web页面</a></br>
 
 
 	<script type="text/javascript">
@@ -214,6 +215,17 @@
                             		bridge.pushToWXLogin();
                                        });
 	}
+		
+	function j() {
+       	   connectWebViewJavascriptBridge(function(bridge){
+                                       bridge.allowRefresh(true);
+                                       });
+    	}
+	function k() {
+       	   connectWebViewJavascriptBridge(function(bridge){
+                                       bridge.allowRefresh(false);
+                                       });
+    	}
     
 	window.onload = function(){
 		var wxData = {};
