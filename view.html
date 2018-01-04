@@ -44,6 +44,7 @@
     <a href="javascript:;" class="pushToWXLogin" onclick="pushToWXLogin();">退出并微信登录</a></br>
     <a href="javascript:;" class="f" onclick="k();">刷新web页面</a></br>
     <a href="javascript:;" class="f" onclick="l();">不刷新web页面</a></br>
+	<a href="javascript:;" class="f" onclick="m();">进他家</a></br>
 
 
 	<script type="text/javascript">
@@ -225,6 +226,16 @@
        	   connectWebViewJavascriptBridge(function(bridge){
                                        bridge.allowRefresh(false);
                                        });
+    	}
+		
+	function m() {
+	var data = {};
+            data.uid= "34104217";
+            data.domain= "hangzhou";
+            connectWebViewJavascriptBridge(function(bridge){
+               bridge.gotoUserForJson(JSON.stringify(data));
+            });
+       	   
     	}
     
 	window.onload = function(){
