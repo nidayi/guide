@@ -17,7 +17,6 @@
 		            }, false)
 	        }
 	    }
-
 	</script>
 	
     <a href="https://fight1990.github.io/html-pages/test.html" class="aaaa">页内跳转</a></br>
@@ -45,6 +44,10 @@
     <a href="javascript:;" class="f" onclick="k();">刷新web页面</a></br>
     <a href="javascript:;" class="f" onclick="l();">不刷新web页面</a></br>
 	<a href="javascript:;" class="f" onclick="m();">进他家</a></br>
+	
+	<a href="javascript:;" class="f" onclick="sina();">0新浪</a></br>
+
+	
 
 
 	<script type="text/javascript">
@@ -61,7 +64,6 @@
             var data = {};
             data.type = "second";
             data.param= {"id":"home2"};
-
             connectWebViewJavascriptBridge(function(bridge){
                 bridge.gotoLocalPage(JSON.stringify(data));
             });
@@ -163,7 +165,6 @@
 		
 	function calendarEvent(event) {		
 	var startString = "2018-01-15 14:05:00";
-
 	//根据日期字符串转换成日期 
 	var regEx = new RegExp("\\-","gi"); 
 	var startDate =Date.parse(startString.replace(regEx,"/"));
@@ -237,7 +238,15 @@
             });
        	   
     	}
-    
+		
+    function sina(){
+            var data = {};
+            connectWebViewJavascriptBridge(function(bridge){
+                                           bridge.share("http://www.19lou.com/forum-289-thread-11391516081859157-1-1.html","年初杭城房贷利率不降反升，上浮10%-20%成主流.","房子贵","https://att2.citysbs.com/hangzhou/2018/01/16/13/middle_500x324-135058_v2_20951516081858791_4faad39baa45b993fd4bfd2fd9722f43.jpg","1","0");
+                                           });
+        }
+	
+	
 	window.onload = function(){
 		var wxData = {};
 	connectWebViewJavascriptBridge(function(bridge){
