@@ -44,8 +44,12 @@
     <a href="javascript:;" class="f" onclick="k();">刷新web页面</a></br>
     <a href="javascript:;" class="f" onclick="l();">不刷新web页面</a></br>
 	<a href="javascript:;" class="f" onclick="m();">进他家</a></br>
-	
+	<!--type:0新浪；1腾讯；2微信；3朋友圈；4QQ;5QQ空间-->
 	<a href="javascript:;" class="f" onclick="sina();">0新浪</a></br>
+	<a href="javascript:;" class="f" onclick="wx();">2微信</a></br>
+	<a href="javascript:;" class="f" onclick="pyq();">3朋友圈</a></br>
+	<a href="javascript:;" class="f" onclick="qq();">4QQ</a></br>
+	<a href="javascript:;" class="f" onclick="qzone();">5QQ空间</a></br>
 
 	
 
@@ -209,7 +213,7 @@
 	connectWebViewJavascriptBridge(function(bridge){
                             		wxData = bridge.getWxData();
                                        });
-		alert(JSON.stringify(wxData));
+		//alert(JSON.stringify(wxData));
 	}
 		
 	function pushToWXLogin() {
@@ -240,12 +244,35 @@
     	}
 		
     function sina(){
+            var data = {};
             connectWebViewJavascriptBridge(function(bridge){
                                            bridge.share("房子贵","http://www.19lou.com/forum-289-thread-11391516081859157-1-1.html","年初杭城房贷利率不降反升，上浮10%-20%成主流.","https://att2.citysbs.com/hangzhou/2018/01/16/13/middle_500x324-135058_v2_20951516081858791_4faad39baa45b993fd4bfd2fd9722f43.jpg","2","0");
                                            });
         }
-	
-	
+	function wx(){
+		var data = {};
+		connectWebViewJavascriptBridge(function(bridge){
+									   bridge.share("房子贵","http://www.19lou.com/forum-289-thread-11391516081859157-1-1.html","年初杭城房贷利率不降反升，上浮10%-20%成主流.","https://att2.citysbs.com/hangzhou/2018/01/16/13/middle_500x324-135058_v2_20951516081858791_4faad39baa45b993fd4bfd2fd9722f43.jpg","2","2");
+									   });
+        }
+	function pyq(){
+		var data = {};
+		connectWebViewJavascriptBridge(function(bridge){
+									   bridge.share("房子贵","http://www.19lou.com/forum-289-thread-11391516081859157-1-1.html","年初杭城房贷利率不降反升，上浮10%-20%成主流.","https://att2.citysbs.com/hangzhou/2018/01/16/13/middle_500x324-135058_v2_20951516081858791_4faad39baa45b993fd4bfd2fd9722f43.jpg","2","3");
+									   });
+        }
+	function qq(){
+		var data = {};
+		connectWebViewJavascriptBridge(function(bridge){
+									   bridge.share("房子贵","http://www.19lou.com/forum-289-thread-11391516081859157-1-1.html","年初杭城房贷利率不降反升，上浮10%-20%成主流.","https://att2.citysbs.com/hangzhou/2018/01/16/13/middle_500x324-135058_v2_20951516081858791_4faad39baa45b993fd4bfd2fd9722f43.jpg","2","4");
+									   });
+        }
+	function qzone(){
+		var data = {};
+		connectWebViewJavascriptBridge(function(bridge){
+									   bridge.share("房子贵","http://www.19lou.com/forum-289-thread-11391516081859157-1-1.html","年初杭城房贷利率不降反升，上浮10%-20%成主流.","https://att2.citysbs.com/hangzhou/2018/01/16/13/middle_500x324-135058_v2_20951516081858791_4faad39baa45b993fd4bfd2fd9722f43.jpg","2","5");
+									   });
+        }
 	window.onload = function(){
 		var wxData = {};
 	connectWebViewJavascriptBridge(function(bridge){
