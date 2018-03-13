@@ -283,7 +283,7 @@
 		
 	function refesh(){
             var data = {};
-            data.url= "http://www.19lou.com/topic/html/2016/0725wy.html";
+           data.params= {"isNeedRefresh":true};
             connectWebViewJavascriptBridge(function(bridge){
                                            bridge.gotoRenZhen(JSON.stringify(data));
                                            });
