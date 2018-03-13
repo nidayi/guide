@@ -52,6 +52,7 @@
 	<a href="javascript:;" class="f" onclick="qzone();">5QQ空间</a></br>
 <a href="javascript:;" class="f" onclick="qrCode();">扫码</a></br>
 <a href="javascript:;" class="f" onclick="refesh();">认证刷新</a></br>
+<a href="javascript:;" class="f" onclick="noRefesh();">认证不刷新</a></br>
 
 	
 
@@ -284,6 +285,13 @@
 	function refesh(){
             var data = {};
            data.params= {"isNeedRefresh":true};
+            connectWebViewJavascriptBridge(function(bridge){
+                                           bridge.gotoRenZhen(JSON.stringify(data));
+                                           });
+        }
+		function noRefesh(){
+            var data = {};
+           data.params= {"isNeedRefresh":false};
             connectWebViewJavascriptBridge(function(bridge){
                                            bridge.gotoRenZhen(JSON.stringify(data));
                                            });
