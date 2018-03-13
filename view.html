@@ -51,6 +51,7 @@
 	<a href="javascript:;" class="f" onclick="qq();">4QQ</a></br>
 	<a href="javascript:;" class="f" onclick="qzone();">5QQ空间</a></br>
 <a href="javascript:;" class="f" onclick="qrCode();">扫码</a></br>
+<a href="javascript:;" class="f" onclick="refesh();">认证刷新</a></br>
 
 	
 
@@ -279,6 +280,13 @@
                                        bridge.gotoCapture();
                                        });
 	}
+	function refesh(){
+            var data = {};
+            data.params= {"url":"http://www.baidu.com"};
+            connectWebViewJavascriptBridge(function(bridge){
+                                           bridge.gotoRenZhen(JSON.stringify(data));
+                                           });
+        }
 	window.onload = function(){
 		var wxData = {};
 	connectWebViewJavascriptBridge(function(bridge){
