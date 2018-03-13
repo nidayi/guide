@@ -282,7 +282,7 @@
 	}
 	function refesh(){
             var data = {};
-            data.params= {"url":"http://www.baidu.com"};
+            data.url= "http://www.baidu.com";
             connectWebViewJavascriptBridge(function(bridge){
                                            bridge.gotoRenZhen(JSON.stringify(data));
                                            });
