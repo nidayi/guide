@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+    <meta name="description" content=""/>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<title>js 万能测</title>
+</head>
+<body>
+
+    <script type="text/javascript">
+	    function connectWebViewJavascriptBridge(callback) {
+	        if (window.webOpenJSBridge) {
+	            callback(window.webOpenJSBridge)
+	        } else {
+				document.addEventListener('webOpenJSBridgeReady', function() {
+		                callback(window.webOpenJSBridge)
+		            }, false)
+	        }
+	    }
+	</script>
+  <div class="video19">
+  <video controls="" preload="none" poster="https://att2.citysbs.com/hangzhou/2018/03/19/09/090609_v2_14871521421569124_d5d57a88640d92d4e99980f9c7e0abc2.mp4.png" class="video-js vjs-default-skin vjs-big-play-centered" style="width:100%; height:100%" webkit-playsinline="true" playsinline="true"><source src="https://att2.citysbs.com/hangzhou/2018/03/19/09/090609_v2_14871521421569124_d5d57a88640d92d4e99980f9c7e0abc2.mp4" type="video/mp4">
+  </video>
+  </div>
+<a href="javascript:;" class="f" onclick="noRefesh();">认证不刷新</a></br>
+	<script type="text/javascript"> 
+	function hideTitleBar_B() {
+	connectWebViewJavascriptBridge(function(bridge){
+                                       bridge.hideTitleBar(true);
+                                       });
+	}		
+	function hideTitleBar_C() {
+	connectWebViewJavascriptBridge(function(bridge){
+                                       bridge.hideTitleBar(false);
+                                       });
+	}
+		
+	function refesh(){
+            var data = {};
+           data.params= {"isNeedRefresh":true};
+            connectWebViewJavascriptBridge(function(bridge){
+                                           bridge.gotoRenZhen(JSON.stringify(data));
+                                           });
+        }
+		function noRefesh(){
+            var data = {};
+           data.params= {"isNeedRefresh":false};
+            connectWebViewJavascriptBridge(function(bridge){
+                                           bridge.gotoRenZhen(JSON.stringify(data));
+                                           });
+        }
+	}
+	</script>
+</body>
+</html>
