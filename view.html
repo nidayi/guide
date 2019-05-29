@@ -55,7 +55,7 @@
 <a href="javascript:;" class="f" onclick="qrCode();">扫码</a></br>
 <a href="javascript:;" class="f" onclick="refesh();">认证刷新</a></br>
 <a href="javascript:;" class="f" onclick="noRefesh();">认证不刷新</a></br>
-
+<a href="javascript:;" class="f" onclick="xcx();">app跳小程序</a></br>
 	
 
 
@@ -283,7 +283,11 @@
                                        bridge.gotoCapture();
                                        });
 	}
-		
+	function xcx(){
+		var data = {};
+		connectWebViewJavascriptBridge(function(bridge){
+	        bridge.callMiniProgram("gh_457bd4d27eca","/pages/thread/thread?tid=76761544078577380&bid=16471445580067152&cityname=hangzhou"
+        }	
 	function refesh(){
             var data = {};
            data.params= {"isNeedRefresh":true};
