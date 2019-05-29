@@ -285,8 +285,9 @@
 	}
 	function xcx(){
 		var data = {};
+		data.params= {"id":"gh_457bd4d27eca","path":"/pages/thread/thread?tid=76761544078577380&bid=16471445580067152&cityname=hangzhou"};
 		connectWebViewJavascriptBridge(function(bridge){
-	        bridge.callMiniProgram("gh_457bd4d27eca","/pages/thread/thread?tid=76761544078577380&bid=16471445580067152&cityname=hangzhou");
+			 bridge.callMiniProgram(JSON.stringify(data));
         });
 	}	
 	function refesh(){
