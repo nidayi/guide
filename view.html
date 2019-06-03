@@ -56,7 +56,7 @@
 <a href="javascript:;" class="f" onclick="refesh();">认证刷新</a></br>
 <a href="javascript:;" class="f" onclick="noRefesh();">认证不刷新</a></br>
 <a href="javascript:;" class="f" onclick="xcx();">app跳小程序</a></br>
-	
+<a href="javascript:;" class="f" onclick="hsh();">19汇生活 </a></br>	
 
 
 	<script type="text/javascript">
@@ -290,7 +290,15 @@
 		connectWebViewJavascriptBridge(function(bridge){
 			 bridge.callMiniProgram(JSON.stringify(data));
         });
-	}	
+	}
+	function hsh(){
+	     var data = {};
+	     data.id=" gh_4f98c122f6d9";
+	     data.path="pages/index/index";
+	     connectWebViewJavascriptBridge(function(bridge){
+			 bridge.callMiniProgram(JSON.stringify(data));
+        });
+	}
 	function refesh(){
             var data = {};
            data.params= {"isNeedRefresh":true};
