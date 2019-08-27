@@ -56,7 +56,8 @@
 <a href="javascript:;" class="f" onclick="refesh();">认证刷新</a></br>
 <a href="javascript:;" class="f" onclick="noRefesh();">认证不刷新</a></br>
 <a href="javascript:;" class="f" onclick="xcx();">app跳小程序</a></br>
-<a href="javascript:;" class="f" onclick="hsh();">19汇生活 </a></br>	
+<a href="javascript:;" class="f" onclick="hsh();">19汇生活 </a></br>
+<a href="javascript:;" class="f" onclick="dingwei();">定位 </a></br>
 
 
 	<script type="text/javascript">
@@ -299,6 +300,11 @@
 			 bridge.callMiniProgram(JSON.stringify(data));
         });
 	}
+	function dingwei() {
+       	   connectWebViewJavascriptBridge(function(bridge){
+                                       bridge.getGeolocation(dingwei);
+                                       });
+    	}
 	function refesh(){
             var data = {};
            data.params= {"isNeedRefresh":true};
