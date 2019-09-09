@@ -58,7 +58,7 @@
 <a href="javascript:;" class="f" onclick="xcx();">app跳小程序</a></br>
 <a href="javascript:;" class="f" onclick="hsh();">19汇生活 </a></br>
 <a href="javascript:;" class="f" onclick="dingwei();">定位 </a></br>
-
+<a href="javascript:;" class="f" onclick="changeTitle();">改变标题 </a></br>
 
 	<script type="text/javascript">
         
@@ -317,6 +317,11 @@
            data.params= {"isNeedRefresh":false};
             connectWebViewJavascriptBridge(function(bridge){
                                            bridge.gotoRenZhen(JSON.stringify(data));
+                                           });
+        }
+	function changeTitle(){
+            connectWebViewJavascriptBridge(function(bridge){
+                                           bridge.changeTitleBarText(“你好”);
                                            });
         }
 	window.onload = function(){
