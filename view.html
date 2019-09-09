@@ -312,7 +312,7 @@
                                            bridge.gotoRenZhen(JSON.stringify(data));
                                            });
         }
-		function noRefesh(){
+	function noRefesh(){
             var data = {};
            data.params= {"isNeedRefresh":false};
             connectWebViewJavascriptBridge(function(bridge){
@@ -321,7 +321,7 @@
         }
 	function changeTitle(){
             connectWebViewJavascriptBridge(function(bridge){
-                                           bridge.changeTitleBarText(“你好”);
+                                           bridge.changeTitleBarText("百度搜索");
                                            });
         }
 	window.onload = function(){
