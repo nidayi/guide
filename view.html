@@ -60,6 +60,17 @@
 <a href="javascript:;" class="f" onclick="dingwei();">定位 </a></br>
 <a href="javascript:;" class="f" onclick="changeTitle();">改变标题 </a></br>
 
+<!-- a标签点击打开的动作，在click事件中注册 -->
+<a href="javascript:;" id="openApp">贴吧客户端</a>
+<script type="text/javascript">
+    document.getElementById('openApp').onclick = function(e){
+        window.location.href = "com.nineteenlou.nineteenlou://app";
+        window.setTimeout(function(){
+            window.location.href = "http://att2.citysbs.com/hangzhou/soft/android_pkg/19louV8.9.9.20200111.apk";//打开app下载地址，由app开发人员提供
+        },2000)
+    };
+</script>
+
 	<script type="text/javascript">
         
         function aa(){
